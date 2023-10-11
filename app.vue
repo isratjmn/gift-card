@@ -2,6 +2,7 @@
   <div>
     <GiftCardCard />
     <GiftCardForm />
+    <Button></Button>
   </div>
 </template>
 
